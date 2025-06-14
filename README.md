@@ -12,7 +12,7 @@ This deep learning pipeline enhances medical images using DCNN + D-SCA and class
 5. Visualization & Comparison - Visualizes results, evaluates performance.
 #  Installation
 ```bash
-git clone https://github.com/yourusername/dsca-project.git
+git clone (https://github.com/saddam232003/DSCA-FOR-LR-TO-HR)
 cd dsca-project
 pip install -r requirements.txt
 
